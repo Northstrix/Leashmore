@@ -21,6 +21,6 @@ SourceForge page can be found at https://sourceforge.net/projects/leashmore/
 - A worker can have no gigs, one gig, or several gigs.
 - A payment may only belong to one worker.
 
-##Requirements
+## Requirements
 - Windows 10 or compatible OS
 - [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
