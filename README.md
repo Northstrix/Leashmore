@@ -20,3 +20,7 @@ SourceForge page can be found at https://sourceforge.net/projects/leashmore/
 - A gig may belong to no worker or belong to one or several workers, but no worker can have the same gig twice.
 - A worker can have no gigs, one gig, or several gigs.
 - A payment may only belong to one worker.
+
+##Requirements
+- Windows 10 or compatible OS
+- [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
