@@ -1,0 +1,17 @@
+C:\Users\ok\source\repos\Lishmor\Lishmor\bin\Debug\net6.0-windows\Lishmor.exe
+C:\Users\ok\source\repos\Lishmor\Lishmor\bin\Debug\net6.0-windows\Lishmor.deps.json
+C:\Users\ok\source\repos\Lishmor\Lishmor\bin\Debug\net6.0-windows\Lishmor.runtimeconfig.json
+C:\Users\ok\source\repos\Lishmor\Lishmor\bin\Debug\net6.0-windows\Lishmor.dll
+C:\Users\ok\source\repos\Lishmor\Lishmor\bin\Debug\net6.0-windows\Lishmor.pdb
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.Form1.resources
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.csproj.GenerateResource.cache
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.AssemblyInfoInputs.cache
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.AssemblyInfo.cs
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.dll
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\refint\Lishmor.dll
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.pdb
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\Lishmor.genruntimeconfig.cache
+C:\Users\ok\source\repos\Lishmor\Lishmor\obj\Debug\net6.0-windows\ref\Lishmor.dll
