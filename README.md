@@ -12,6 +12,7 @@ SourceForge page can be found at https://sourceforge.net/projects/leashmore/
 - HMAC-SHA256 (integrity verification)
 - SQLite Relational Database Management System
 - Unicode Support
+- Password Hashing + Hash Encryption
 
 ## Database rules
 - A worker can have no specialization or only one specialization.
