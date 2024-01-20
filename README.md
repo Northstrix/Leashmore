@@ -36,7 +36,7 @@ As you enter the password you would like to use, press the "Continue" button. Af
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Password%20Set%20Successfully%20Message.png)
 
-Once you reach that point, you will be able to see the main form as depicted below. If you wish to add any specializations, you can do so by selecting "Specialization" and then clicking on "Add". However, if you would like to skip that part, it can be done later.
+Once you've successfully unlocked Leashmore, you will be able to see the main form as depicted below. If you wish to add any specializations, you can do so by selecting "Specialization" and then clicking on "Add". However, if you would like to skip that part, it can be done later.
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Leashmore%20Main%20Form.png)
 
