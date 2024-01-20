@@ -74,3 +74,16 @@ Enter the gig title, start and end dates, payment for the gig, and gig descripti
 A confirmation message "Record Added Successfully!" will be displayed after the record is added to the database
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Record%20Added%20Successfully%20Message.png)
+
+After adding a gig to the database, you can finally assign it to one or several workers. To assign a gig to a worker, select the worker's name, click on the "Add Gig to Worker" button, and choose the gig type. Then, click on the "Continue" button and select the gig you want to assign to the worker from the pop-up window. Finally, click on the "Add" button to complete the assignment process.
+When you assign a gig to the worker, they become entitled to the amount of money specified in the gig, so if you assign a $100 gig to three workers, each of them would be entitled to $100.
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Leashmore%20Main%20Form%20With%20Selected%20Worker.png)
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Select%20Gig%20Type.png)
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Select%20Gig%20To%20Assign%20To%20Worker.png)
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Result%20Paid%20Gig%20Added%20to%20Worker%20Successfully%20Message.png)
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Leashmore%20Main%20Form%20With%20Selected%20Worker%20After%20Adding%20Gig.png)
