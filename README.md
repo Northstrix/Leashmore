@@ -13,7 +13,7 @@ SourceForge page can be found at https://sourceforge.net/projects/leashmore/
 - SQLite Relational Database Management System
 - Unicode Support
 - Password Hashing + Hash Encryption
-- Collision Avoidance (Ensures that no two records in the same table have the saame Rec_id)
+- Collision Avoidance (Ensures that no two records in the same table have the same Rec_id)
 
 ## Database rules
 - A worker can have no specialization or only one specialization.
