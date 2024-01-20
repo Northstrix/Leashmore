@@ -28,7 +28,7 @@ SourceForge page can be found at https://sourceforge.net/projects/leashmore/
 ## User Guide
 Launch the "Leashmore.exe" file from the "software/bin/Debug/net6.0-windows/"
 
-When launching Leashmore for the first time, you will be prompted to set a password to unlock it. Please note that the cryptographic keys used to decrypt data are derived directly from your chosen password. As a result, you will not be able to change your password once it has been set. Additionally, if you lose your password, the data stored in the database will be inaccessible, as the Leashmore will be unable to decrypt it.
+When launching Leashmore for the first time, you will be prompted to set a password to unlock it. Please note that the cryptographic keys used to decrypt data are derived directly from your chosen password. As a result, you will not be able to change your password once it has been set. Additionally, if you lose your password, the data stored in the database will be inaccessible, as the Leashmore won't be able to decrypt it.
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Set%20Password.png)
 
@@ -48,7 +48,7 @@ If you haven't selected a specialization, the Leashmore software will show you a
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Specialization%20Isn't%20Selected%20Warning.png)
 
-Once you have added a worker's record, a confirmation message "Record Added Successfully!" will be displayed.
+A confirmation message "Record Added Successfully!" will be displayed after the record is added to the database
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Record%20Added%20Successfully%20Message.png)
 
