@@ -13,6 +13,7 @@ SourceForge page can be found at https://sourceforge.net/projects/leashmore/
 - SQLite Relational Database Management System
 - Unicode Support
 - Password Hashing + Hash Encryption
+- Collision Avoidance (Ensures that no two records in the same table have the saame Rec_id)
 
 ## Database rules
 - A worker can have no specialization or only one specialization.
@@ -56,5 +57,20 @@ Once you close this message window, you will be able to see the updated worker's
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Leashmore%20Main%20Form%20With%20Records.png)
 
+This is how the records look like in an encrypted form within the database.
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Records%20in%20the%20database.png)
+
 To add gigs in Leashmore, click on "Gig" and then select "Add." Leashmore enables you to add two types of gigs: result-paid gigs and hourly-paid gigs. For result-paid gigs, you only need to enter the amount that the worker will be paid for completing the entire gig. For hourly-paid gigs, you need to enter the hourly rate (pay) and the number of hours that the worker will be working.
 
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Select%20Gig%20Type.png)
+
+When you've decided what type of gig you want to add, check the corresponding radio button and hit "Continue."
+
+Enter the gig title, start and end dates, payment for the gig, and gig description. Click the "Add" button to record the gig in the database. By the way, you don't have to worry about using commas for decimal points because Leashmore automatically replaces commas with decimal points for numeric fields when it adds records to the database.
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Add%20Result%20Paid%20Gig%20Form.png)
+
+A confirmation message "Record Added Successfully!" will be displayed after the record is added to the database
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Record%20Added%20Successfully%20Message.png)
