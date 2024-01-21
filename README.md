@@ -87,3 +87,9 @@ When you assign a gig to the worker, they become entitled to the amount of money
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Result%20Paid%20Gig%20Added%20to%20Worker%20Successfully%20Message.png)
 
 ![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0/Pictures/Leashmore%20Main%20Form%20With%20Selected%20Worker%20After%20Adding%20Gig.png)
+
+Once you assign a gig to a worker, they are entitled to the payment specified for that gig. To pay the worker, select their name, click on the "Pay to Worker" button, enter the payment amount, and click on the "Pay" button.
+
+Also, you can change the currency symbol displayed by editing the "currency.txt" file found in the same folder as the "Leashmore.exe" file after setting the master password.
+
+You can explore other features of Leashmore on your own.
