@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSpecialization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddWorkerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChooseGigPayForRemoval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditHourlyPaidGigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditResultPaidGigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditSpecialization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditWorkerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddHourlyPaidGigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddResultPaidGig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectRecordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewAllPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewHourlyPaidGigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewResultPaidGigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSpecialization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
