@@ -93,3 +93,10 @@ Once you assign a gig to a worker, they are entitled to the payment specified fo
 Also, you can change the currency symbol displayed by editing the "currency.txt" file found in the same folder as the "Leashmore.exe" file after setting the master password.
 
 You can explore other features of Leashmore on your own.
+
+## Errors
+Leashmore can give you the following errors related to the data decryption:
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0.1/Pictures/Failed%20to%20Verify%20Integrity%2CAuthenticity%20of%20a%20Ciphertext.png)
+
+![image text](https://github.com/Northstrix/Leashmore/blob/main/V1.0.1/Pictures/Failed%20to%20Decrypt%20Ciphertext%20Message.png)
