@@ -7,6 +7,8 @@ You can use Leashmore in commercial applications.
 
 SourceForge page can be found at https://sourceforge.net/projects/leashmore/
 
+V1.0.1 - Added the missing integrity/authenticity verification feature
+
 ## Features
 - AES-256 in CBC-mode (military-grade encryption)
 - HMAC-SHA256 (integrity verification)
